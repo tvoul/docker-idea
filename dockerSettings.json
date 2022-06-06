@@ -18,5 +18,13 @@
     "country-info-db",
     [
       3000
+    ],
+    "capital-info",
+    [
+      6000
+    ],
+    "capital-info-db",
+    [
+      6005
     ]
 ]
