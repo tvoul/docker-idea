@@ -1,0 +1,30 @@
+[
+    "dev-world-map",
+    [
+      4005
+    ],
+    "dev-iframes",
+    [
+      8011
+    ],
+    "dev-country-info",
+    [
+      4000
+    ],
+    "reverse-proxy",
+    [
+      80
+    ],
+    "dev-country-info-db",
+    [
+      3000
+    ],
+    "dev-capitals",
+    [
+      6000
+    ],
+    "dev-mongo-db",
+    [
+      6005
+    ]
+]
