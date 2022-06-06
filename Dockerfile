@@ -2,4 +2,4 @@
 FROM node:14-alpine
 
 # run necessary start commands
-CMD npm install && npm run build && npm start
+CMD npm install && npm run build && npm run dev
